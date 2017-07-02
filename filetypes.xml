@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="rv-collapse" type="PLAIN_TEXT" />
+      <mapping pattern="angular-wizard" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
