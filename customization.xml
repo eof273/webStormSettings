@@ -14,21 +14,28 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Commit" is_action="true" action_type="1" position="0">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="1">
+    <group value="ChangesView.Commit" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="2">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
