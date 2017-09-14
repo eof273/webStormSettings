@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Directory '[front-end] - ...\src'" />
+    <option name="defaultScopeName" value="Directory '[front-end] - ...\src'" />
+    <option name="SEARCH_SCOPE" value="Directory '[front-end] - ...\src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
