@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*service.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -28,6 +29,11 @@
       <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>se.js</mask>
+      <mask>ser.js</mask>
+      <mask>servi.js</mask>
+      <mask>service.js</mask>
+      <mask>*service.js</mask>
     </recentFileMasks>
   </component>
 </application>
