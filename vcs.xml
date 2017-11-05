@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/eof273/cg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RECVOLT/landing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dbp" />
+    <option name="cloneParentDir" value="D:\dbp\NBP" />
   </component>
 </application>
