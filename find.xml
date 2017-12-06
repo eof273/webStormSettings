@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
       <mask>*.s</mask>
@@ -19,11 +19,9 @@
       <mask>servi.js</mask>
       <mask>service.js</mask>
       <mask>*service.js</mask>
-      <mask>*.j</mask>
       <mask>*.ht</mask>
       <mask>*.html&quot;</mask>
       <mask>*.scss</mask>
-      <mask>*.html</mask>
       <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
@@ -31,9 +29,14 @@
       <mask>^.vue</mask>
       <mask>.vue</mask>
       <mask>vue</mask>
+      <mask>*.(js</mask>
+      <mask>*.(js)</mask>
+      <mask>*.js)</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
