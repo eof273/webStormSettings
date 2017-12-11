@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.routes.js" />
     <recentFileMasks>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.htm</mask>
-      <mask>*.h</mask>
-      <mask>se.js</mask>
-      <mask>ser.js</mask>
       <mask>servi.js</mask>
       <mask>service.js</mask>
       <mask>*service.js</mask>
@@ -34,6 +26,15 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.rou</mask>
+      <mask>*.rout</mask>
+      <mask>*.route</mask>
+      <mask>*.route.ujs</mask>
+      <mask>*.route.uj</mask>
+      <mask>*.route.u</mask>
+      <mask>*.route.</mask>
+      <mask>*.route.js</mask>
+      <mask>*.routes.js</mask>
     </recentFileMasks>
   </component>
 </application>
