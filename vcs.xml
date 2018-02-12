@@ -40,7 +40,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dbp\" />
+    <option name="cloneParentDir" value="D:\dbp\test\" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
