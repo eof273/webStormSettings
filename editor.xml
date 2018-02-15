@@ -6,4 +6,7 @@
   <component name="EditorSettings">
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="syncTagEditing" value="false" />
+  </component>
 </application>
