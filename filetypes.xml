@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="manifest" type="JSON" />
       <mapping pattern="dsd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
