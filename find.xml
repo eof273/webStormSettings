@@ -7,27 +7,11 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="livereload.js" />
     <recentFileMasks>
-      <mask>*.(js</mask>
-      <mask>*.(js)</mask>
-      <mask>*.js)</mask>
-      <mask>*.j</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.html</mask>
-      <mask>*.rou</mask>
-      <mask>*.rout</mask>
-      <mask>*.route</mask>
-      <mask>*.route.ujs</mask>
-      <mask>*.route.uj</mask>
       <mask>*.route.u</mask>
       <mask>*.route.</mask>
       <mask>*.route.js</mask>
       <mask>*.routes.js</mask>
       <mask>*..js</mask>
-      <mask>*.js</mask>
-      <mask>**.js</mask>
-      <mask>*l*.js</mask>
-      <mask>*li*.js</mask>
       <mask>li*.js</mask>
       <mask>li.js</mask>
       <mask>liv.js</mask>
@@ -36,6 +20,22 @@
       <mask>liverel.js</mask>
       <mask>liverelo.js</mask>
       <mask>livereloa.js</mask>
+      <mask>*reload.js</mask>
+      <mask>*reload*.js</mask>
+      <mask>*live*.js</mask>
+      <mask>*.js</mask>
+      <mask>*relo*.js</mask>
+      <mask>*rel*.js</mask>
+      <mask>*re*.js</mask>
+      <mask>*r*.js</mask>
+      <mask>*inde*.js</mask>
+      <mask>*ind*.js</mask>
+      <mask>*in*.js</mask>
+      <mask>*i*.js</mask>
+      <mask>**.js</mask>
+      <mask>*l*.js</mask>
+      <mask>*li*.js</mask>
+      <mask>*liv*.js</mask>
       <mask>livereload.js</mask>
     </recentFileMasks>
   </component>
