@@ -1,30 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="livereload.js" />
     <recentFileMasks>
-      <mask>servi.js</mask>
-      <mask>service.js</mask>
-      <mask>*service.js</mask>
-      <mask>*.ht</mask>
-      <mask>*.html&quot;</mask>
-      <mask>*.scss</mask>
-      <mask>*.v</mask>
-      <mask>*.vu</mask>
-      <mask>*.vue</mask>
-      <mask>^*.vue</mask>
-      <mask>^.vue</mask>
-      <mask>.vue</mask>
-      <mask>vue</mask>
       <mask>*.(js</mask>
       <mask>*.(js)</mask>
       <mask>*.js)</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -38,6 +23,20 @@
       <mask>*.route.</mask>
       <mask>*.route.js</mask>
       <mask>*.routes.js</mask>
+      <mask>*..js</mask>
+      <mask>*.js</mask>
+      <mask>**.js</mask>
+      <mask>*l*.js</mask>
+      <mask>*li*.js</mask>
+      <mask>li*.js</mask>
+      <mask>li.js</mask>
+      <mask>liv.js</mask>
+      <mask>live.js</mask>
+      <mask>livere.js</mask>
+      <mask>liverel.js</mask>
+      <mask>liverelo.js</mask>
+      <mask>livereloa.js</mask>
+      <mask>livereload.js</mask>
     </recentFileMasks>
   </component>
 </application>
