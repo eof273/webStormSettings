@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.route.u</mask>
-      <mask>*.route.</mask>
       <mask>*.route.js</mask>
       <mask>*.routes.js</mask>
       <mask>*..js</mask>
@@ -22,7 +21,6 @@
       <mask>*reload.js</mask>
       <mask>*reload*.js</mask>
       <mask>*live*.js</mask>
-      <mask>*.js</mask>
       <mask>*relo*.js</mask>
       <mask>*rel*.js</mask>
       <mask>*re*.js</mask>
@@ -36,6 +34,9 @@
       <mask>*li*.js</mask>
       <mask>*liv*.js</mask>
       <mask>livereload.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
