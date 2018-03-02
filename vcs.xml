@@ -42,6 +42,10 @@
           <option name="url" value="https://Eof273@bitbucket.org/Eof273/evolution.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Eof273@bitbucket.org/Eof273/piet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dbp\" />
