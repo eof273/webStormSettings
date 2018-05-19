@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="manifest" type="JSON" />
       <mapping pattern="dsd" type="PLAIN_TEXT" />
+      <mapping pattern="buffer" type="PLAIN_TEXT" />
       <mapping pattern="icons" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
