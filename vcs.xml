@@ -66,9 +66,21 @@
           <option name="url" value="git@gitlab.com:mydesireiscoma/delivery-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:brcportal2/ModulBank.FrontEnd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/brcportal2/ModulBank.FrontEnd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/brcportal2/Markup.Portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dbp\" />
+    <option name="cloneParentDir" value="D:\mb\" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
