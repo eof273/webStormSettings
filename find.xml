@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>li.js</mask>
-      <mask>liv.js</mask>
-      <mask>live.js</mask>
-      <mask>livere.js</mask>
-      <mask>liverel.js</mask>
-      <mask>liverelo.js</mask>
-      <mask>livereloa.js</mask>
       <mask>*reload.js</mask>
       <mask>*reload*.js</mask>
       <mask>*live*.js</mask>
@@ -28,12 +21,19 @@
       <mask>*liv*.js</mask>
       <mask>livereload.js</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*[^spec].js</mask>
+      <mask>*[^spe].js</mask>
+      <mask>*[^sp].js</mask>
+      <mask>*[^s].js</mask>
+      <mask>*[^].js</mask>
+      <mask>*[].js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
