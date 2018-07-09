@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*reload.js</mask>
       <mask>*reload*.js</mask>
@@ -21,12 +22,7 @@
       <mask>*liv*.js</mask>
       <mask>livereload.js</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*[^spec].js</mask>
       <mask>*[^spe].js</mask>
       <mask>*[^sp].js</mask>
@@ -34,6 +30,11 @@
       <mask>*[^].js</mask>
       <mask>*[].js</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
