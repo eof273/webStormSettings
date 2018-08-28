@@ -7,6 +7,11 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" pattern="\btodo\b eof273.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="syncTagEditing" value="false" />
   </component>
