@@ -1,6 +1,7 @@
 <code_scheme name="Default">
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_QUOTE_STYLE" value="None" />
+  <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
