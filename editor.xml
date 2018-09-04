@@ -11,6 +11,9 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" pattern="\btodo\b eof273.*" />
+    <filter name="my">
+      <pattern index="2" />
+    </filter>
   </component>
   <component name="XmlEditorOptions">
     <option name="syncTagEditing" value="false" />
