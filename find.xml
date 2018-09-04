@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.htm</mask>
       <mask>*[^spec].js</mask>
@@ -29,11 +32,11 @@
       <mask>*.styl</mask>
       <mask>*.html</mask>
       <mask>*.js\</mask>
-      <mask>*.js</mask>
       <mask>*r.js</mask>
       <mask>*er.js</mask>
       <mask>*per.js</mask>
       <mask>*pper.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
