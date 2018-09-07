@@ -2,8 +2,12 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -11,4 +15,5 @@
   <action id="StringManipulation.Sort">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Uml.ShowDiff" />
 </keymap>
