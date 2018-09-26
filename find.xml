@@ -1,41 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.htm</mask>
-      <mask>*[^spec].js</mask>
-      <mask>*[^spe].js</mask>
-      <mask>*[^sp].js</mask>
-      <mask>*[^s].js</mask>
-      <mask>*[^].js</mask>
-      <mask>*[].js</mask>
-      <mask>*.j</mask>
-      <mask>*.h</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.ht</mask>
-      <mask>*.[]</mask>
-      <mask>*.[^]</mask>
-      <mask>*.[^js]</mask>
-      <mask>*.[^js</mask>
-      <mask>*.[^j</mask>
-      <mask>*.[^</mask>
-      <mask>*.[</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.styl</mask>
-      <mask>*.html</mask>
-      <mask>*.js\</mask>
-      <mask>*r.js</mask>
-      <mask>*er.js</mask>
-      <mask>*per.js</mask>
-      <mask>*pper.js</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
