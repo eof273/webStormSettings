@@ -9,6 +9,7 @@
       <mapping pattern="dsd" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="fuck" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
