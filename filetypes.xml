@@ -3,13 +3,14 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="manifest" type="JSON" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="icons" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
       <mapping pattern="buffer" type="PLAIN_TEXT" />
       <mapping pattern="dsd" type="PLAIN_TEXT" />
-      <mapping pattern=".eslint" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
-      <mapping pattern="icons" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="fuck" type="PLAIN_TEXT" />
+      <mapping pattern=".eslint" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
